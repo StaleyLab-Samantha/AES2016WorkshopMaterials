@@ -16,8 +16,8 @@ addpath(genpath('../'))
 % IEEGSession.createPwdFile('username','password')
 
 %% ENTER OWN USERNAME AND PASSWORD FILE HERE
-ieegUser = 'hoameng';
-ieegPwd = 'hoa_ieeglogin.bin'; %created bin file
+ieegUser = 'skumarasena';
+ieegPwd = 'IEEGpw.bin'; %created bin file
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
